@@ -191,5 +191,51 @@
  // 'Incremento 4: 10'
  // 'Incremento 5: 11'
 
-//  let numero = prompt ('Ingresá un número');
-//  let cantidad = prompt ('Ingresá una cantidad');
+  //  let numero = prompt ('Ingresá un número');
+  //  let cantidad = prompt ('Ingresá una cantidad');
+
+  //  let incremento1 = parseInt(numero) + parseInt(cantidad);
+  //  let incremento2 = parseInt(numero) + (parseInt(cantidad) *2);
+  //  let incremento3 = parseInt(numero) + (parseInt(cantidad)*3);
+  //  let incremento4 = parseInt(numero) + (parseInt(cantidad)*4);
+  //  let nncremento5 = parseInt(numero) + (parseInt(cantidad)*5);
+
+  //  alert (`Incremento 1: ${incremento1}`);
+  //  alert (`Incremento 2: ${incremento2}`);
+  //  alert (`Incremento 3: ${incremento3}`);
+  //  alert (`Incremento 4: ${incremento4}`);
+  //  alert (`Incremento 5: ${incremento5}`);
+
+// EJERCICIO 16
+ // Necesitamos un programa que pida ingresar una cantidad de grados Celsius, mediante el siguiente mensaje:
+ // Ingresá una cantidad de grados Celsius
+ // Con esta información, el programa deberá mostrar la conversión de grados Celsius a grados Fahrenheit con el mensaje: 
+ // La conversión de {grados} grados Celsius a Fahrenheit es: {resultado}
+
+  //  let grados = prompt ("Ingresá una cantidad de grados Celsius");
+
+  //  let resultado = (parseInt(grados) * 9/5) + 32 ;
+
+  //  alert (`La conversión de ${grados} grados Celsius a Fahrenheit es: ${resultado}`);
+
+// EJERCICIO 17
+ // Necesitamos un programa que pida dos números con los siguientes mensajes respectivamente:
+ // Ingresá el primer número.
+ // Ingresá el segundo número.
+ // Con esta información, el programa deberá mostrar si el primer valor es múltiplo del segundo mediante el siguiente mensaje: 
+ // El número {primerNumero} es múltiplo de {segundoNumero}: {resultado}
+
+//  let primerNumero = prompt ('Ingresá el primer número');
+//  let segundoNumero = prompt ('Ingresá el segundo número');
+//  let resultado = parseInt(primerNumero) % parseInt(segundoNumero);
+
+//  function multiplo (primerNumero, segundoNumero) {
+//    let resultado = parseInt(primerNumero) % parseInt(segundoNumero);
+//    if (resultado == 0); {
+//     alert (`El número ${primerNumero} es múltiplo de ${segundoNumero}: true`)
+//    } 
+
+//   }
+
+
+
